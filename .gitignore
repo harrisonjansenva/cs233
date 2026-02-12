@@ -1,9 +1,16 @@
 
 
 ## ignore macOS files
-.DS_Store
+*.DS_Store
 
 ## ignore picture files
 *.png
 *.jpg
 *.jpeg
+
+## IDE project settings
+/.idea/
+/.vscode/
+
+## HTML files
+*.html
